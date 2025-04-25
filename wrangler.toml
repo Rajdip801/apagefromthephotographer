@@ -1,3 +1,7 @@
 name = "apagefromthephotographer"
 compatibility_date = "2025-04-25"
-main = "src/App.jsx"
+main = "worker.js"
+
+kv_namespaces = [
+  { binding = "MY_NAMESPACE", id = "16149533eb094ef58b45c63db1f383ec" }
+]
