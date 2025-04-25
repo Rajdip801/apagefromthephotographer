@@ -1,4 +1,4 @@
-import '../style/scss/404.scss';
+import '../style/scss/404.css';
 
 export default function NotFound() {
     return(
